@@ -1,0 +1,10 @@
+mlagents==0.28.0
+torch==1.8.1+cpu
+torchvision==0.9.1+cpu
+numpy==1.21.6
+protobuf==3.20.3
+six
+typing-extensions
+attrs
+cattrs==1.5.0
+tensorboard
