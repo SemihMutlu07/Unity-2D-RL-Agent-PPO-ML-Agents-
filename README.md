@@ -90,11 +90,3 @@ Larger arena / smaller target (hard mode)
 Moving target speed changes
 
 Multi-agent tag (chaser vs evader)
-
-### Push it
-```powershell
-git add README.md
-git commit -m "Polish README (matches current project)"
-git push
-
-
