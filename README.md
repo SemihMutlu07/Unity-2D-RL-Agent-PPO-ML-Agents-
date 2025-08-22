@@ -32,7 +32,7 @@ View metrics:
 bash
 Copy code
 tensorboard --logdir results
-
+```
 🧩 Environment (what the agent sees/does)
 
 Observations (6): agent_x, agent_y, target_x, target_y, vel_x, vel_y
@@ -91,14 +91,10 @@ Moving target speed changes
 
 Multi-agent tag (chaser vs evader)
 
-📝 License
-
-MIT — feel free to use and adapt.
-
-
 ### Push it
 ```powershell
 git add README.md
 git commit -m "Polish README (matches current project)"
 git push
+
 
