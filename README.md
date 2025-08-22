@@ -2,6 +2,7 @@
 
 A tiny 2D Unity environment where an agent learns to reach a target with **PPO**.  
 Trained via **Unity ML-Agents**, monitored in **TensorBoard**, and deployed to Unity with **ONNX/Barracuda** (no Python needed at runtime).
+<img width="984" height="727" alt="2DRL_ss" src="https://github.com/user-attachments/assets/ec5efea0-25a1-45d3-9b43-aa4b6ea9bd1c" />
 
 ---
 
@@ -90,3 +91,4 @@ Larger arena / smaller target (hard mode)
 Moving target speed changes
 
 Multi-agent tag (chaser vs evader)
+
