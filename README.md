@@ -27,9 +27,10 @@ pip install -r training/requirements.txt
 mlagents-learn config.yaml --run-id=demo_run
 # When it prints "Listening on port 5004", press Play in Unity
 # Stop with Ctrl+C — it will export ONNX under results/<run_id>/
-
 View metrics:
 
+bash
+Copy code
 tensorboard --logdir results
 
 🧩 Environment (what the agent sees/does)
@@ -100,3 +101,4 @@ MIT — feel free to use and adapt.
 git add README.md
 git commit -m "Polish README (matches current project)"
 git push
+
